@@ -26,4 +26,4 @@ This repository contains a Streamlit dashboard and a Colab notebook for analyzin
 
 ## Team
 - Melanny Doncel
-- Tu compañero/a
+- Jose Diaz
